@@ -1,0 +1,11 @@
+D:\C Drive files\source\repos\CsharpFundamentals\gradebook\src\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.deps.json
+D:\C Drive files\source\repos\CsharpFundamentals\gradebook\src\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.runtimeconfig.json
+D:\C Drive files\source\repos\CsharpFundamentals\gradebook\src\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.runtimeconfig.dev.json
+D:\C Drive files\source\repos\CsharpFundamentals\gradebook\src\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.dll
+D:\C Drive files\source\repos\CsharpFundamentals\gradebook\src\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.pdb
+D:\C Drive files\source\repos\CsharpFundamentals\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.csprojAssemblyReference.cache
+D:\C Drive files\source\repos\CsharpFundamentals\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.csproj.CoreCompileInputs.cache
+D:\C Drive files\source\repos\CsharpFundamentals\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.AssemblyInfoInputs.cache
+D:\C Drive files\source\repos\CsharpFundamentals\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.AssemblyInfo.cs
+D:\C Drive files\source\repos\CsharpFundamentals\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.dll
+D:\C Drive files\source\repos\CsharpFundamentals\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.pdb
